@@ -1,4 +1,7 @@
 # Telemedizinische Dienstleistungen／Online-Zusammenfassung für Ärzte
+
+[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md)
+
 Wie das Tongji-Krankenhaus der Huazhong-Universität für Wissenschaft und Technik zitiert, "können milde Patienten sofort mit der Fernberatung zu Hause beginnen". Es ist zu hoffen, dass landesweit weitere telemedizinische Plattformen eingerichtet werden. Sie kann nicht nur mehr medizinische Unterstützung für Wuhan bieten, sondern auch verhindern, dass sich leichte Patienten in das Krankenhaus einfinden. Ärzte können zu Hause wertvolle Fachkenntnisse vermitteln und gleichzeitig Patienten ohne Infektionsrisiko helfen. Der Schutz des medizinischen Personals schützt uns alle!  forked from: http://www.xn--cesp9b.net/  (Dank an den Dadi Korpus der Universität Soochow)
 
 | <hr size=1 ALIGN=CENTER> # | <hr width = 100 size=1 ALIGN=CENTER> Name der medizinischen Einrichtung </hr> | <hr width = 500 size=1 ALIGN=CENTER> Webseite、wechat öffentlichen Account </hr> | <hr width = "500" size=1 ALIGN=CENTER> Service-Inhalt（Gebühren）</hr> | <hr width = 100 size=1 ALIGN=CENTER> Datum hinzufügen </hr>  |

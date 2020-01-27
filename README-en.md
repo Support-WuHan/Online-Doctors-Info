@@ -1,6 +1,6 @@
 # A summary of Telemedicine Services/Online Doctors
 
-[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md)
+[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md)
 
 "Patients with mild illness can seek remote medical consultation at home," as suggested by Tongji Medical College Huazhong University of Science & Technology. We hope that more telemedicine platforms will be established throughout the country. It can not only offer more medical support for Wuhan, but also avoid cross-infection of patients with mild diseases to hospitals. In other words, medical staff across the country can provide valuable professional knowledge to help patients at home without the risk of infection. After all, protecting medical staff is to protect us all! forked from: http://www.xn--cesp9b.net/ (thanks to the support offered by Earth Corpus Research Group from Soochow University)
 
