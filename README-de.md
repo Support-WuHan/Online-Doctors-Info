@@ -6,8 +6,7 @@ Wie das Tongji-Krankenhaus der Huazhong-Universität für Wissenschaft und Techn
 
 | <hr size=1 ALIGN=CENTER> # | <hr width = 100 size=1 ALIGN=CENTER> Name der medizinischen Einrichtung </hr> | <hr width = 500 size=1 ALIGN=CENTER> Webseite、wechat öffentlichen Account </hr> | <hr width = "500" size=1 ALIGN=CENTER> Service-Inhalt（Gebühren）</hr> | <hr width = 100 size=1 ALIGN=CENTER> Datum hinzufügen </hr>  |
 |---|--------------|---------------------------|-------------------------------|-----------|
-| 1 | Dingxiang Arzt     | wechat öffentlichen Account
-: DingXiangYiSheng | Verhindern Sie neue Lungenentzündung · Kostenlose Beratung in Hubei | 2020/1/24 |
+| 1 | Dingxiang Arzt     | wechat öffentlichen Account: DingXiangYiSheng | Verhindern Sie neue Lungenentzündung · Kostenlose Beratung in Hubei | 2020/1/24 |
 | 2 | Huazhong Universität für Wissenschaft und Technologie Tongji Hospital |wechat öffentlichen Account：whtongji1900 |Online-Beratungsfunktion "Fieberdiagnose". Sofortige Konsultation zu Hause für milde Patienten (unbegrenzte Anzahl)| 2020/1/24 |
 | 4 | Weiyi| www.guahao.com |Kostenlose Beratung |2020/1/24|
 | 5 | Toller Arzt online |https://www.haodf.com/jibing/feiyan.htm| unbekannte Gebühren |2020/1/24|
@@ -16,8 +15,7 @@ Wie das Tongji-Krankenhaus der Huazhong-Universität für Wissenschaft und Techn
 | 8 | Wuhan Xiehe Hospital | Wechat öffentlicher Account：Wuhan Xiehe Hospital | Kostenlose Fiebersprechstunde|2020/1/25|
 | 9 | The First Affiliated Hospital of Anhui Medical University | Wechat öffentlicher Account： The First Affiliated Hospital of Anhui Medical University Suchen Sie und folgen Sie dem öffentlichen Acount, wählen Sie "Internet Hospital" aus dem "Medical Treatment Service" unten links im Menü |Kostenlose Beratung|2020/1/25|
 | 10 | Hefei BOE Krankenhaus|Wechat öffentlicher Account Suchen Sie nach dem öffentlichen Account und wählen Sie "Internet Hospital" in "Medical Services" unten links im Menü|Kostenlose Beratung|2020/1/25|
-| 11 | Suining zentrales Krankenhaus| Wechat öffentlicher Account：Suining City Central Hospital(suiningshizhongxinyiyuan）Suchen und folgen Sie das öffentliche Wechat Account. In der unteren lincken Ecke des Menüs können Sie das „online Krankenhaus“ finden. Klicken Sie die Spalte „ online ärztliche Konsultation“   
-und dann die „Fibersprechstunde“. Wählen Sie einen Doktor und die „ anschauliche Beratung“| Online–Beratungsfunktion „ Fieberdiagnose | 2020/1/25|
+| 11 | Suining zentrales Krankenhaus| Wechat öffentlicher Account：Suining City Central Hospital(suiningshizhongxinyiyuan Suchen und folgen Sie das öffentliche Wechat Account. In der unteren lincken Ecke des Menüs können Sie das „online Krankenhaus“ finden. Klicken Sie die Spalte „ online ärztliche Konsultation“ und dann die „Fibersprechstunde“. Wählen Sie einen Doktor und die „ anschauliche Beratung“| Online–Beratungsfunktion „ Fieberdiagnose | 2020/1/25|
 | 12 |Sicherheit toller Doktor| Wechat öffentlicher Account: Sicherheit toller Doktor (pinganhaoyisheng)｜Suchen und folgen Sie das öffentliche Wechat Account. In der Mitte der Startseite können Sie die Taste „ die Beratung der Epidemie“ finden | Online–Beratungsfunktion „ Fieberdiagnose | 2020/1/25
 | 13 | The Third People Hospital in Wuxi (online) | Wechat öffentlicher Account: The Third online People Hospital in Wuxi (wuxishidisanrenmingyiyuanhulianwangyiyuan)  In der Startseite können Sie die Taste „ die anschauliche Beratung “ oder die „ Video Beratung” drucken ｜ Anschauliche Beratung oder Video Beratung｜ 2020/1/25
 | 14 | Nanjing Second Hospital | Wechat öffentlicher Account: Nanjing Second Hospital (nanjingshidieryiyuan) In der Startseite können Sie das  „ online Krankenhaus“ besuchen und dann drucken Sie die Taste „ die anschauliche Beratung “ oder die „ Video Beratung” ｜ Fieberdiagnose , Anschauliche Beratung , Video Beratung｜ 2020/1/25
