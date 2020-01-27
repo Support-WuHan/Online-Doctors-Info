@@ -44,4 +44,4 @@ P.S. En tant que technicien, nous avons réfléchi à ce que nous pouvons faire 
 
 我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
 
-![Française Support for Foreigners](./qrcode/wechat/française.png)
+![French Support for Foreigners](./qrcode/wechat/french.png)
