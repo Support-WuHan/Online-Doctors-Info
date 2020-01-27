@@ -1,4 +1,7 @@
 # 远程医疗服务／在线医生汇总
+
+[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md)
+
 引用华中科大同济医院的话” 轻症患者即时起可居家远程咨询”。希望全国更多的远程医疗平台建立起来。不仅可以为武汉提供更多的医疗支撑，也可以避免轻症患者前往医院交叉感染。全国的白衣天使可以在家提供宝贵的专业知识帮助病人的同时，没有被感染的危险。保护医护人员就是保护我们大家！ forked from: http://www.xn--cesp9b.net/  (感谢苏州大学大地语料库课题组)
 
 | <hr size=1 ALIGN=CENTER> # | <hr width = 100 size=1 ALIGN=CENTER> 医疗机构名称 </hr> | <hr width = 500 size=1 ALIGN=CENTER> 网址、微信公众号 </hr> | <hr width = "500" size=1 ALIGN=CENTER> 服务内容（收费情况）</hr> | <hr width = 100 size=1 ALIGN=CENTER> 添加日期 </hr>  |
