@@ -39,3 +39,9 @@ Citant la parole de l'hôpital Tongji de l'Université des sciences et technolog
  31 | Troisième hôpital affilié de l'Université Sun Yat-sen | | Consultation gratuite | 
 
 P.S. En tant que technicien, nous avons réfléchi à ce que nous pouvons faire pour nos amis dans la zone sinistrée de Wuhan. En voyant les informations rassemblées par l'équipe du professeur Wang Ding à l'Université de Suzhou, je les trouve très utiles et significatives. Maintenant l'épidémie fait rage dans la zone sinistrée, nous pensons que la consultation à distance / le traitement médical en ligne peuvent aider les amis de Wuhan à connecter rapidement les ressources médicales et à éviter efficacement les infections croisées. Nous espérons également que tout le monde pourra travailler ensemble pour résumer et diffuser. La force de chacun est limitée, mais ensemble, nous pouvons aider les petits partenaires à l'échelle nationale et même mondiale. (L'équipe Pure White Matrix)
+
+## 微信群
+
+我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
+
+![Française Support for Foreigners](./qrcode/wechat/française.png)

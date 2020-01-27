@@ -41,3 +41,9 @@
 | 33 | more |                           |                               |           |
 
 P.S. As technicians, we have been thinking about what we can do for our countrymen in the disaster-stricken areas in Wuhan. Seeing the information collated by Professor Wang Ding's team at Soochow University, we find it very useful and significant. Now that the epidemic is raging in the disaster-stricken areas, we believe that remote consultation / online medical treatment can help friends in Wuhan to quickly connect medical resources and effectively avoid cross infection. We also hope that everyone can work together to connect information and inform others. One's strength is limited, but together we can help people nationwide and even globally. (Sincere greetings from White Matrix)
+
+## 微信群
+
+我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
+
+![English Support for Foreigners](./qrcode/wechat/english.png)
