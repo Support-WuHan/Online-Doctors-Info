@@ -1,6 +1,6 @@
 # Services de télémédecine / Résumé des médecins en ligne
 
-[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md)
+[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md) ｜ [日本語](./README-jp.md) ｜ [한국어](./README-kr.md)  ｜ [Русский язык](./README-ru.md)
 
 Citant la parole de l'hôpital Tongji de l'Université des sciences et technologies de Huazhong, "les patients mineurs peuvent commencer immédiatement une consultation à distance à domicile". On espère que davantage de plates-formes de télémédecine seront établies à l'échelle nationale.  Il peut non seulement fournir plus de soutien médical à Wuhan, il peut également empêcher l'infection croisée de patients légers à l'hôpital. Les médecins peuvent fournir une expertise précieuse à domicile tout en aidant les patients sans risque d'infection. Protéger le personnel médical, c'est de protéger nous tous! extrait de: http://www.xn--cesp9b.net/ (merci au Geodetic Corpus de l'Université de Suzhou)
 
