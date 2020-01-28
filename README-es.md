@@ -1,6 +1,6 @@
 # atención médica a distancia/lista de medicos en línea
 
-[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md) ｜ [日本語](./README-jp.md) ｜ [한국어](./README-kr.md)  ｜ [Русский язык](./README-ru.md) 
+[中文](./README.md) ｜ [English](./README-en.md) ｜ [Française](./README-fr.md) ｜ [Deutsch](./README-de.md) ｜ [日本語](./README-jp.md) ｜ [한국어](./README-kr.md)  ｜ [Русский язык](./README-ru.md)  ｜ [Español](./README-es.md)  
 
 Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar la consulta a distancia en su propia casa.” Esperamos que se construyan más plataformas de asistencia médica a distancia, no solo para brindar mayor apoyo a Wuhan sino también para evitar infecciones entrecruzadas causadas por el desplazamiento de los enfermos no graves, de tal modo el personal médico de toda China, al ayudar a los pacientes con sus valiosos conocimientos profesionales, no se expondrán al contagio. Protegerlos a ellos es, al final, proteger a todos nosotros. forked from: http://www.xn--cesp9b.net/  (agradecimiento especial al Earth Corpus Research Group de la Universidad de Soochow)
 
