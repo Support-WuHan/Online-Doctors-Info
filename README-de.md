@@ -44,4 +44,5 @@ P.S. Als Techniker haben wir darüber nachgedacht, was wir für unsere Freunde i
 ## WeChat
 
 Die Sprachunterstützung von unseren Freiwilligen stehen Ihnen  bei Bedarf zur Verfügung.
-![Deutsch Support for Foreigners](./qrcode/wechat/germany.png)
+
+![germany.png](https://i.loli.net/2020/01/28/3ry29nVBm1auY8q.png)

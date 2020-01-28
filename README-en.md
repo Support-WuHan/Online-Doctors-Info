@@ -44,4 +44,4 @@ P.S. As technicians, we have been thinking about what we can do for our countrym
 
 ## WeChat
 
-![English Support for Foreigners](./qrcode/wechat/english.png)
+![english.png](https://i.loli.net/2020/01/28/ljM6KTHEz9iDgnR.png)

@@ -43,4 +43,5 @@ P.S. En tant que technicien, nous avons réfléchi à ce que nous pouvons faire 
 ## WeChat
 
 Si necessaire, notre volontaire peut vous offrir une aide linguistique.
-![French Support for Foreigners](./qrcode/wechat/french.png)
+
+![française.png](https://i.loli.net/2020/01/28/CNXoPKuAkghc8lB.png)

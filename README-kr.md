@@ -46,5 +46,6 @@ forked from: http://www.xn--cesp9b.net/  (소주대학 대지의 어료고 과�
 
 ## WeChat
 
-필요하시면 저희 자원봉사자들이 언어 도움을 드릴 수 있습니다. 
-![Korean Support for Foreigners](./qrcode/wechat/korean.png)
+필요하시면 저희 자원봉사자들이 언어 도움을 드릴 수 있습니다.
+
+![korean.png](https://i.loli.net/2020/01/28/FdbKVhwNj246AIr.png)

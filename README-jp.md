@@ -46,4 +46,5 @@ P.S.技術者として、被災地である武漢でもがいている同胞の�
 ## WeChat
 
 もし何かお困りでしたら私たち言語サポーターがお手伝い致します。
-![Japanese Support for Foreigners](./qrcode/wechat/japanese.png)
+
+![japanese.png](https://i.loli.net/2020/01/28/tQW69RAekg8HJIC.png)

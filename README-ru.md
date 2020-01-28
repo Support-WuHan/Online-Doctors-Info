@@ -45,5 +45,6 @@ P.S. Как технические специалисты, мы думали о 
 
 ## WeChat
 
-Волонтёры могут предложить вам языковую помощь если вам нужно. 
-![Russian Support for Foreigners](./qrcode/wechat/russian.png)
+Волонтёры могут предложить вам языковую помощь если вам нужно.
+
+![russian.png](https://i.loli.net/2020/01/28/xh8XWQR6rdKjbAI.png)
