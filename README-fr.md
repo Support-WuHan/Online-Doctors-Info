@@ -44,4 +44,4 @@ P.S. En tant que technicien, nous avons réfléchi à ce que nous pouvons faire 
 
 Si necessaire, notre volontaire peut vous offrir une aide linguistique.
 
-![française.png](https://i.loli.net/2020/01/28/CNXoPKuAkghc8lB.png)
+[Join Group](https://i.loli.net/2020/01/28/CNXoPKuAkghc8lB.png)

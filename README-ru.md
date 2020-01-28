@@ -47,4 +47,4 @@ P.S. Как технические специалисты, мы думали о 
 
 Волонтёры могут предложить вам языковую помощь если вам нужно.
 
-![russian.png](https://i.loli.net/2020/01/28/xh8XWQR6rdKjbAI.png)
+[Join Group](https://i.loli.net/2020/01/28/xh8XWQR6rdKjbAI.png)
