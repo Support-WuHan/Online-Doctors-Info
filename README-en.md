@@ -30,11 +30,11 @@
 | 22 | 京东 APP(JD APP)|Open the APP, search for “京东义诊(free consultation on JD)” and you’ll find “免费问诊(free consultation)” (through words and photos) and “电话义诊(free consultation through calls)” (010-89128261, 010-89128263 daily 8:00-20:00)| Urgent consultation and consultation through calls|2020/1/26|
 | 23 | Jinan Central Hospital | Wechat Official Account: sdjnzxyy. Follow the official account “sdjnzxyy” and go to Homepage for past articles (2020/1/26conformation).  Enter the page of  “济南市中心医院互联网医院’发热咨询门诊’正式上线”.|Online outpatient consultation|2020/1/26|
 | 24 | The First Affiliated Hospital of Xiamen University·Internet Hospital | Wechat Official Account: xmfh120. Follow the official account “xmfh120”, on Homepage (2020/1/26 confirmation) go to “发热门诊 (fever outpatient)”||Online outpatient consultation| 2020/1/26|
-| 25 | 医联 APP| Wechat Official Account: medlinker. Search for the account on Wechat: medlinker, go to Homepage for  its past articles,( confirmed on 1/26/2020) Enter the article of “疫情当前，刻不容缓！控制蔓延，义不容辞！(It is incumbent on us to control the spread for the epidemic situation is urgent at present!)”, then click Read More, go to “免费咨询专家 (Free Consultation with Medical Experts)”| 7 * 24 hours consultation| 2020/1/26|
-| 26 | 南京医科大学第二附属医院| Wechat Official Account: njykdxdefsyy. Search for the account on Wechat，click “就医服务(medical service)”, then “互联网医院(online hospital)”, “互联网问诊(online medical consultation service)”| online hospital| 2020/1/26|
-| 27 | 连云港市第一人民医院| Wechat Official Account: lygsdyrmyy. Search for the account on Wechat,  on Homepage ( confirmed on 1/26/2020), click “便民服务(convenience service)”, then go to “互联网医院(online hospital)”, click “在线问诊(online medical consultation service)”, then go to “发热门诊咨询（成人）(online fever clinic (adults))” or  “发热门诊咨询（儿童）(online fever clinic (children))| free online consultation for fever patients| 2020/1/26|
-| 28 | 阳江市人民医院| Wechat Official Account: yjrmyy. Search for the account on Wechat, click “医疗服务(medical service)”，go to “互联网医院(online hospital)”|online hospital|2020/1/26|
-| 29 | 江苏健康通| Wechat Official Account: jsehealth. Search for the account on Wechat, Homepage（2020/1/26确认）click “互联网医疗(online medical consultation service)”| free online consultation for fever patients|2020/1/26|
+| 25 | Medlinker APP| Wechat Official Account: medlinker. Search for the account on Wechat: medlinker, go to Homepage for  its past articles,( confirmed on 1/26/2020) Enter the article of “疫情当前，刻不容缓！控制蔓延，义不容辞！(It is incumbent on us to control the spread for the epidemic situation is urgent at present!)”, then click Read More, go to “免费咨询专家 (Free Consultation with Medical Experts)”| 7 * 24 hours consultation| 2020/1/26|
+| 26 | The Second Affiliated Hospital of Nanjing Medical University| Wechat Official Account: njykdxdefsyy. Search for the account on Wechat，click “就医服务(medical service)”, then “互联网医院(online hospital)”, “互联网问诊(online medical consultation service)”| online hospital| 2020/1/26|
+| 27 | The First People’s Hospital of Lianyungang| Wechat Official Account: lygsdyrmyy. Search for the account on Wechat,  on Homepage ( confirmed on 1/26/2020), click “便民服务(convenience service)”, then go to “互联网医院(online hospital)”, click “在线问诊(online medical consultation service)”, then go to “发热门诊咨询（成人）(online fever clinic (adults))” or  “发热门诊咨询（儿童）(online fever clinic (children))| free online consultation for fever patients| 2020/1/26|
+| 28 | People’s Hospital of Yangjiang| Wechat Official Account: yjrmyy. Search for the account on Wechat, click “医疗服务(medical service)”，go to “互联网医院(online hospital)”|online hospital|2020/1/26|
+| 29 | Jiangsu Health Pass| Wechat Official Account: jsehealth. Search for the account on Wechat, Homepage（2020/1/26确认）click “互联网医疗(online medical consultation service)”| free online consultation for fever patients|2020/1/26|
 | 30 | Alipay | Open Alipay, you can see "新型肺炎莫恐慌 足不出户免费问医生(Don’t be Panic for the New Pneumonia;  Seeing a Doctor Without Leaving Home for Free)" in the scroll bar on the homepage. Click it, and you can select a doctor for free online consultation. | Alipay opens free clinic entrance for Wuhan citizens, and common diseases can be diagnosed online| 2020/1/26|
 | 31 | The Third Affiliated Hospital of Sun Yat-sen University|        | free consultation | 2020/1/26|
 | 32 | more |                           |                               |           |
@@ -42,8 +42,6 @@
 
 P.S. As technicians, we have been thinking about what we can do for our countrymen in the disaster-stricken areas in Wuhan. Seeing the information collated by Professor Wang Ding's team at Soochow University, we find it very useful and significant. Now that the epidemic is raging in the disaster-stricken areas, we believe that remote consultation / online medical treatment can help friends in Wuhan to quickly connect medical resources and effectively avoid cross infection. We also hope that everyone can work together to connect information and inform others. One's strength is limited, but together we can help people nationwide and even globally. (Sincere greetings from White Matrix)
 
-## 微信群
-
-我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
+## WeChat
 
 ![English Support for Foreigners](./qrcode/wechat/english.png)
