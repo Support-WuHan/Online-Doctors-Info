@@ -47,4 +47,5 @@ P.S. 作为技术人员，我们一直在想能够为武汉灾区的小伙伴们
 我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
 
 ![support.png](https://i.loli.net/2020/01/28/P82zUoRwa6vfQTJ.png)
+
 [点击访问](https://i.loli.net/2020/01/28/P82zUoRwa6vfQTJ.png)
