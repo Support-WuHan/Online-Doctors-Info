@@ -43,6 +43,6 @@ Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar 
 ## WeChat
 nuestros voluntarios siempre están a su disposición para ofrecerle cualquier ayuda de la lengua.：
 
-![support.png](https://i.loli.net/2020/01/28/P82zUoRwa6vfQTJ.png)
+![spanish.png](https://i.loli.net/2020/01/28/Wc6BH4Xw2hRVPDG.png)
 
-[点击访问](https://i.loli.net/2020/01/28/P82zUoRwa6vfQTJ.png)
+[Click](https://i.loli.net/2020/01/28/Wc6BH4Xw2hRVPDG.png)
