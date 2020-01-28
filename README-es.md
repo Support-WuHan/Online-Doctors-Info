@@ -21,30 +21,27 @@ Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar 
 | 13 | The Third People’s Hospital of Wuxi (Hospital Online) |Cuenta oficial, Miniprograma: 无锡市第三人民医院互联网医院Busque y siga “无锡市第三人民医院互联网医院”, haga clic, primero, Servicios de atención de la salud(就医服务) y después, Consulta Online (互联网诊疗) en la Página de Inicio, y haga Fotos Consulta Médica(图文问诊) o Video Consulta Médica(视频问诊).|Fotos Consulta Médica, Video Consulta Médica|2020/1/25|
 | 14 | The Second Hospital of Nanjing  | Cuenta Oficial: 南京市第二医院服务号 Busque y Siga la cuenta oficial, haga clic Hospital Online(互联网医院) en la Página de Inicio, y seleccione Fotos Consulta Médica (图文问诊) o Video Consulta Médica(视频问诊).|Urgencias para la fiebre, Fotos Consulta Médica y Video Consulta Médica|2020/1/25|
 | 15 |Xinqiao Hospital of TMMU|Cuenta Oficial: 重庆新桥医院 Busque la Cuenta Oficial, sígala, entre Hospital Online(掌上医院) en la página de inicio, añada la tarjeta de consulta, rellene la información, y haga consulta médica online.|Consulta Médica Online|2020/1/25|
-| 16 |快速问医生|公众号：快速问医生 微信小程序搜索“快速问医生”即可免费咨询，或者下载“快速问医生”APP，首页即有免费咨询和公益问诊通道，平台每个医生每天有五个公益问诊名额。 可免费咨询| 有免费和收费|2020/1/25|
-| 17 | 株洲联合微脉| 平台咨询是免费的，因为来不及制作新的平台，只能使用原来的付费平台，最后结算的时候是免费的。|在线义诊|2020/1/25|
-| 18 | 珠海高新技术产业开发区人民医院 |公众号：珠海高新技术产业开发区人民医院医院 微信小程序搜索“珠海高新技术产业开发区人民医院医院”，右边网络问诊。| 网络问诊|2020/1/25|
-| 19 | 广东省第二人民医院 |公众号：广东省第二人民医院健康管理平台 搜索关注公众号。登录后问诊。|在线问诊|2020/1/25|
-| 20 | 常州市第二人民医院 |公众号：常州市第二人民医院 搜索关注公众号。需要注册。| 网上发热门诊|2020/1/25|
-| 21 | 天津微医互联网医院 |公众号：天津本地宝 搜索公众号：“天津本地宝”，首页（2020/1/26确认）天津互联网医院火速上线！可远程门诊，避免交叉感染风险！| 远程门诊 |2020/1/26|
-| 22 | 京东APP|打开京东APP，直接搜索“京东义诊”，即可进入。急速问诊（文字，图片），电话问诊（010-89128261；010-89128263每天8:00-20:00）| 急速问诊和电话问诊|2020/1/26|
-| 23 | 济南市中心医院 |公众号：济南市中心医院 搜索公众号：“济南市中心医院”，首页（2020/1/26确认）进入 “济南市中心医院互联网医院’发热咨询门诊’正式上线”页面。|在线问诊|2020/1/26|
-| 24 | 厦门大学附属第一医院互联网医院 | 公众号：厦门大学附属第一医院互联网医院 搜索公众号：“厦门大学附属第一医院互联网医院”，首页（2020/1/26确认）进入 “发热门诊”页面。| 在线问诊 | 2020/1/26|
-| 25 | 医联APP|公众号：医联APP 搜索公众号：“医联APP”，首页（2020/1/26确认）进入 “疫情防控，在线求助”页面。| 7*24小时咨询| 2020/1/26|
-| 26 | 南京医科大学第二附属医院| 公众号：南京医科大学第二附属医院 搜索公众号，进入就医服务，互联网医院。|互联网医院| 2020/1/26|
-| 27 | 连云港市第一人民医院|公众号：连云港市第一人民医院 搜索公众号：“连云港市第一人民医院”，首页（2020/1/26确认）进入“为发热患者提供免费在线咨询”|  发热患者免费在线咨询| 2020/1/26|
-| 28 | 阳江市人民医院|公众号：阳江市人民医院 搜索公众号“阳江市人民医院”，菜单医疗服务，进入互联网医院|互联网医院|2020/1/26|
-| 29 | 江苏健康通|公众号：“江苏健康通” 搜索公众号“江苏健康通”，首页（2020/1/26确认）进入“江苏健康通――提供免费发热门诊咨询服务的统一门户”| 免费发热门诊|2020/1/26|
-| 30 | 支付宝|打开支付宝，首页滚动栏可见“新型肺炎莫恐慌 足不出户免费问医生”，点击即可选择医生免费在线问诊。| 支付宝为武汉市民开通免费义诊入口，常见病可在线诊断| 2020/1/26|
-| 31 | 中山大学附属第三医院|                           | 	免费咨询 | 2020/1/26|
-| 32 | 武汉协和医院 | 公众号：武汉协和医院 | 免费发热咨询门诊|2020/1/26|
-| 33 | 北京师范大学心理学部|4001-888-976 北师大开通全国新冠肺炎心理支持400热线 | 心理学咨询                              |  2020/1/26 |
+| 16 |Kuai Su Wen Yi Sheng（快速问医生）|Cuenta Oficial: 快速问医生 Haga consulta médica gratis(免费咨询) buscando el miniprograma “快速问医生” en Wechat, o descague APP “快速问医生”, en la que hay selección de Consulta Gratis(免费咨询) y Consulta Médica de Interés Público(公益问诊). En esta plataforma cada médico puede ofrecer Consulta de Interés Público a 5 personas al día. Ofrece Consulta Gratis. | Gratis / Pago|2020/1/25|
+| 17 | Zhuzhou Lian He Wei Mai（株洲联合微脉）|Consulta Gratis en la plataforma. Como no queda suficiente tiempo para crear una nueva plataforma, tiene que usar esta de pago, pero es gratis al pagar cuando termine la consulta.|Consulta Médica Gratis Online|2020/1/25|
+| 18 | Zhuhai High-tech Zone People’s Hospital |Miniprograma: 珠海高新技术产业开发区人民医院 Busque el miniprograma “珠海高新技术产业开发区人民医院” en Wechat, entre Consulta Online(网络问诊), registre o login, y haga consulta médica.| Consulta Médica Online|2020/1/25|
+| 19 | Guangdong Second Provincial General Hospital |Cuenta Oficial：广东省第二人民医院健康管理平台 1.busque y siga esta cuenta oficial：广东省第二人民医院健康管理平台(Guangdong Sheng Di er  renmin yiyuan jiankang guanli pingtai) 2.inicie sesión y consulte |Consulta médica online|2020/1/25|
+| 20 | Changzhou No.2 People’s Hospital |Cuenta Oficial ：常州市第二人民医院：1.busque y siga esta cuenta oficial：常州市第二人民医院(Changzhou shi di er renmin yiyuan ) 2.inicie sesión y consulte | Urgencias online para la fiebre |2020/1/25|
+| 21 | Tianjin Wedoctor · Internet Hospital |Cuenta Oficial ：天津本地宝：1.busque y siga esta cuenta oficial：“天津本地宝”(Tianjin bendibao)2.En la página de inicio busque 问诊 （wenzhen）y consulte | Clínica a distancia  |2020/1/26|
+| 22 | Aplicación de JD| 1. Abra la aplicación de JD y busque “京东义诊（jingdong yizhen)”2.Entre y use 急速问诊（Fotos Consulta Médica） o 电话问诊（Consulta por teléfono）（010-89128261；010-89128263 ；8:00-20:00）| Fotos Consulta Médica y Consulta por teléfono|2020/1/26|
+| 23 | Jinan Central Hospital |Cuenta Oficial ：济南市中心医院 1.busque y siga esta cuenta oficial：济南市中心医院（jinan shi zhongxin yiyuan）2.En la página de inicio haga clic en“就医指南”， y entre “互联网医院” 3. haga clic en 添加就诊人 4. registre con su nombre y número de su tarjeta medica 5. haga clic en互联网医院问诊 y 自填病例,complete la descripción del síntoma y cargue la imagen  6. haga clic en 去复诊 7. haga clic en 发热咨询门诊 y consulte información del médico  8. haga clic en 确认支付 para iniciar la consulta |Consulta médica online|2020/1/26|
+| 24 | The First Affiliated Hospital of Xiamen University Internet Hospital | Cuenta Oficial ：厦门大学附属第一医院互联网医院 1.busque y siga esta cuenta oficial：“厦门大学附属第一医院互联网医院”(xiamen daxue fushu diyi yiyuan hulianwang yiyuan) 2.En la página de inicio haga clic en  便民服务 y entre 发热门诊 | Consulta médica online | 2020/1/26|
+| 25 | APP Yi Lian（医联）|cuenta oficial: 医联APP busque la cuenta oficial: 医联APP, entre en la página “疫情防控，在线求助 (apoyo online para la prevención y controlación de nueva neumonía) ” por la página de inicio | 7*24| 2020/1/26|
+| 26 | The Second Affiliated Hospital of Nanjing Medical University | cuenta oficial: 南京医科大学第二附属医院 busque la cuenta oficial, entre 互联网医院 (hospital por Internet) por 就医服务 (servicio médico).|busque la cuenta oficial, entre | 2020/1/26|
+| 27 | The First People´s Hospital of Lianyugang|cuenta oficial: 连云港市第一人民医院 busque la cuenta oficial “连云港市第一人民医院”, entre por la página de inicio “为发热患者提供免费在线咨询 (clínica gratuita de consulta de fiebre)” |  Consulta médica online| 2020/1/26|
+| 28 | The People´s Hospital of Yangjiang|busque la cuenta oficial ”阳江市人民医院”, entre 互联网医院 (hospital por Internet) por 菜单医疗服务 (servicio médico).|hospital por Internet|2020/1/26|
+| 29 | Atención Médica en Jiangsu (江苏健康通)|cuenta oficial: 江苏健康通 busque la cuenta oficial “江苏健康通”, entre por la página de inicio “江苏健康通――提供免费发热门诊咨询服务的统一门户 (Atención Médica en Jiangsu: lugar donde se provee la clínica gratuita de consulta de fiebre)” | hospital por Internet|2020/1/26|
+| 30 | Faculty of Psychology of Beijing Normal Univesity |4001-888-976 Beijing Normal Univesity comienza un apoyo activo a línea telefónica de ayuda para consultas psicológicas sobre la nueva neumonía | Línea Telefónica de Ayuda Psicológica| 2020/1/26|
 
-P.S. 作为技术人员，我们一直在想能够为武汉灾区的小伙伴们做点什么。看到苏州大学王鼎教授团队整理的信息，觉得十分有用且意义重大。现在灾区疫情肆虐，我们相信远程问诊/在线医疗可以帮助武汉的小伙伴们快速对接医疗资源，并且有效避免了交叉感染。我们也期望大家可以共同来整理归纳扩散，一个人的力量是有限的，但是我们一起就能够帮助全国甚至全球的小伙伴们。（纯白矩阵团队敬上）
+atención médica a distancia/lista de medicos en línea
+Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar la consulta a distancia en su propia casa.” Esperamos que se construyan más plataformas de asistencia médica a distancia, no solo para brindar mayor apoyo a Wuhan sino también para evitar infecciones entrecruzadas causadas por el desplazamiento de los enfermos no graves, de tal modo el personal médico de toda China, al ayudar a los pacientes con sus valiosos conocimientos profesionales, no se expondrán al contagio. Protegerlos a ellos es, al final, proteger a todos nosotros. forked from: http://www.xn--cesp9b.net/  (agradecimiento especial al Earth Corpus Research Group de la Universidad de Soochow)
 
-## 微信群
-
-我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
+## WeChat
+nuestros voluntarios siempre están a su disposición para ofrecerle cualquier ayuda de la lengua.：
 
 ![support.png](https://i.loli.net/2020/01/28/P82zUoRwa6vfQTJ.png)
 
