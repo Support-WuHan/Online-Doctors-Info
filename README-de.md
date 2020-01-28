@@ -41,8 +41,7 @@ Wie das Tongji-Krankenhaus der Huazhong-Universität für Wissenschaft und Techn
 
 P.S. Als Techniker haben wir darüber nachgedacht, was wir für unsere Freunde in den von Katastrophen betroffenen Gebieten in Wuhan tun können. Wenn ich die Informationen sehe, die Professor Wang Dings Team an der Universität Suzhou zusammengetragen hat, finde ich sie sehr nützlich und bedeutsam. Jetzt, da die Epidemie im Katastrophengebiet wütet, sind wir der Ansicht, dass eine Fernabfrage / Online-medizinische Behandlung Freunden in Wuhan helfen kann, medizinische Ressourcen schnell zu vernetzen und Kreuzinfektionen wirksam zu vermeiden. Wir hoffen auch, dass jeder zusammenarbeiten kann, um zusammenzufassen und zu verbreiten. Die eigene Stärke ist begrenzt, aber zusammen können wir kleinen Partnern landesweit und sogar global helfen. (Das Pure White Matrix Team)
 
-## 微信群
+## WeChat
 
-我们新建了各国语言的微信群来帮助在中国的外国友人。以下是微信群组二维码：
-
+Die Sprachunterstützung von unseren Freiwilligen stehen Ihnen  bei Bedarf zur Verfügung.
 ![Deutsch Support for Foreigners](./qrcode/wechat/germany.png)
