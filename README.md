@@ -7,8 +7,7 @@
 | <hr size=1 ALIGN=CENTER> # | <hr width = 100 size=1 ALIGN=CENTER> 医疗机构名称 </hr> | <hr width = 500 size=1 ALIGN=CENTER> 网址、微信公众号 </hr> | <hr width = "500" size=1 ALIGN=CENTER> 服务内容（收费情况）</hr> | <hr width = 100 size=1 ALIGN=CENTER> 添加日期 </hr>  |
 |---|--------------|---------------------------|-------------------------------|-----------|
 | 1 | 丁香医生     | 公众号: DingXiangYiSheng [点击访问](https://img1.dxycdn.com/2020/0125/993/3392865907226580601-22.jpg) | 防范新型肺炎·湖北地区免费义诊 | 2020/1/24 |
-| 2 | 华中科大同济医院 |公众号：whtongji1900 [点击访问](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/hospital/tongji.png)
-) |“发热门诊”在线问诊功能。轻症患者即时起可居家远程咨询（不限号）| 2020/1/24 |
+| 2 | 华中科大同济医院 |公众号：whtongji1900 [点击访问](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/hospital/tongji.png)) |“发热门诊”在线问诊功能。轻症患者即时起可居家远程咨询（不限号）| 2020/1/24 |
 | 3 | 微医| [点击访问](https://promo.guahao.com/topic/pneumonia)|免费义诊|2020/1/24|
 | 4 | 华西医院|[点击访问](https://h5hyt.cd120.com/ncov/index?token=5521445_token_WX1934b6accb9ac50d8e21223d73b6777e_token_1752085387&userId=5521445&organCode=HID0101&openId=ocZagjv41d33u19YN6a35WdagH6Y) | 免费咨询 | 2020/1/26|
 | 5 | 徐州健康通联合微脉|[点击访问](https://m.myweimai.com/hd/publish/index.f94879867f3ec5e6014bed4efec5328d.html?from=singlemessage&isappinstalled=0)|   免费在线义诊  | 2020/1/26|
