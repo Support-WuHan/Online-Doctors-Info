@@ -47,4 +47,5 @@ P.S.技術者として、被災地である武漢でもがいている同胞の�
 
 もし何かお困りでしたら私たち言語サポーターがお手伝い致します。
 
-[Join Group](https://i.loli.net/2020/01/28/YgcLq3pdGE46MFH.jpg)
+[Join Group](https://ftp.bmp.ovh/imgs/2020/01/4e546d965d02f7e7.png)
+

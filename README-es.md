@@ -7,12 +7,12 @@ Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar 
 | <hr size=1 ALIGN=CENTER> # | <hr width = 200 size=1 ALIGN=CENTER>nombre de centro medico </hr> | <hr width = 500 size=1 ALIGN=CENTER> sitio web/cuenta oficial </hr> | <hr width = "500" size=1 ALIGN=CENTER> servicio (precio) </hr> | <hr width = 100 size=1 ALIGN=CENTER> date </hr>  |
 |---|--------------|---------------------------|-------------------------------|-----------|
 | 1 | Ding Xiang Yi Sheng 丁香医生   | cuenta oficial: DingXiangYiSheng [点击访问](https://img1.dxycdn.com/2020/0125/993/3392865907226580601-22.jpg) | prevención de la neumonía y consulta médica gratis para la región de Hubei. | 2020/1/24 |
-| 2 | TongJi Hospital of Huazhong University of Science & Tecnology |cuenta oficial: whtongji1900：whtongji1900 [点击访问](https://i.loli.net/2020/01/28/ETPWyrpKDLei6Ss.png) |consulta en línea de 发热门诊(Urgenciass para la fiebre). Los pacientes con síntomas leves pueden realizar la consulta a distancia en su propia casa. (sin límite de citas)| 2020/1/24 |
+| 2 | TongJi Hospital of Huazhong University of Science & Tecnology |cuenta oficial: whtongji1900：whtongji1900 [点击访问](https://ftp.bmp.ovh/imgs/2020/01/09553ecd2470a128.png) |consulta en línea de 发热门诊(Urgenciass para la fiebre). Los pacientes con síntomas leves pueden realizar la consulta a distancia en su propia casa. (sin límite de citas)| 2020/1/24 |
 | 3 | Wei Yi（微医）| [点击访问](https://promo.guahao.com/topic/pneumonia)|consulta gratis|2020/1/24|
 | 4 | Hua Xi Hospital|[点击访问](https://h5hyt.cd120.com/ncov/index?token=5521445_token_WX1934b6accb9ac50d8e21223d73b6777e_token_1752085387&userId=5521445&organCode=HID0101&openId=ocZagjv41d33u19YN6a35WdagH6Y) | consulta gratis | 2020/1/26|
 | 5 | 徐州健康通联合微脉|[点击访问](https://m.myweimai.com/hd/publish/index.f94879867f3ec5e6014bed4efec5328d.html?from=singlemessage&isappinstalled=0)|   免费在线义诊  | 2020/1/26|
 | 6 | Hao Dai Fu Zai Xian（好大夫在线）|[点击访问](https://www.haodf.com/jibing/feiyan.htm)| gasto incierto|2020/1/24|
-| 7 | Nanjing Drum Tower Hospital (南京鼓楼医院)|cuenta oficial:南京鼓楼医院 [点击访问](https://i.loli.net/2020/01/28/k9bYeABaPZ8wLqE.png) |Urgenciass para filtrar la fiebre|2020/1/25|
+| 7 | Nanjing Drum Tower Hospital (南京鼓楼医院)|cuenta oficial:南京鼓楼医院 [点击访问](https://ftp.bmp.ovh/imgs/2020/01/11f313e284110e7e.png) |Urgenciass para filtrar la fiebre|2020/1/25|
 | 8 |THE FIRST AFFILIATED HOSPITAL OF USTC|Cuenta oficial: 中科大一附院 (ANHUI PROVINCIAL HOSPITAL) Haga click en la parte izquierda de abajo "servicios de atencion de la salud（就医服务）", entre en el hospital online, seleccione "clínica de consulta de fiebre（发热咨询门诊）" para registrarse online|Clínica gratuita de consulta de fiebre；Asistencia de consultas por vídeo u otros medios；Consulta online de informes de prueba|2020/1/25|
 | 9 | THE FIRST AFFILIATED HOSPITAL OF ANHUI MEDICAL UNIVERSITY |Cuenta oficial: 安徽医科大学第一附属医院 Busque y siga su cuenta oficial, entre en la parte izquierda de abajo del menú "servicios médicos（就医服务）" y seleccione "hospital de internet（互联网医院）". |Clínica gratuita de consulta|2020/1/25|
 | 10 | Hefei BOE Hospital |Cuenta oficial: 合肥京东方医院 Busque y siga su cuenta oficial, haga click en la parte izquierda de abajo "servicios médicos（就医服务）" y seleccione "hospital de internel（互联网医院）"|Clínica gratuita de consulta|2020/1/25|
@@ -43,6 +43,6 @@ Según el Tongji Hospital, “los pacientes con síntomas leves pueden realizar 
 ## WeChat
 nuestros voluntarios siempre están a su disposición para ofrecerle cualquier ayuda de la lengua.：
 
-![spanish.png](https://i.loli.net/2020/01/28/Wc6BH4Xw2hRVPDG.png)
+![spanish.png](https://ftp.bmp.ovh/imgs/2020/01/740a8a4b7c784309.png)
 
-[Click](https://i.loli.net/2020/01/28/Wc6BH4Xw2hRVPDG.png)
+[Click](https://ftp.bmp.ovh/imgs/2020/01/740a8a4b7c784309.png)

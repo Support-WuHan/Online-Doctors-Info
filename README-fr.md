@@ -43,4 +43,4 @@ P.S. En tant que techniciens, nous avons réfléchi à ce que nous pouvons fai
 
 Si necessaire, notre volontaire peut vous offrir une aide linguistique.
 
-[Join Group](https://i.loli.net/2020/01/28/CNXoPKuAkghc8lB.png)
+[Join Group](https://ftp.bmp.ovh/imgs/2020/01/d6d2c1d35a858288.png)
