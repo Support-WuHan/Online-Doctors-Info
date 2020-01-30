@@ -47,5 +47,4 @@ P.S.技術者として、被災地である武漢でもがいている同胞の�
 
 もし何かお困りでしたら私たち言語サポーターがお手伝い致します。
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/4e546d965d02f7e7.png)
-
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/japanese.png)

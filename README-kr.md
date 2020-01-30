@@ -47,4 +47,4 @@ forked from: http://www.xn--cesp9b.net/  (소주대학 대지의 어료고 과�
 
 필요하시면 저희 자원봉사자들이 언어 도움을 드릴 수 있습니다.
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/467660a80df4094e.png)
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/korean.png)

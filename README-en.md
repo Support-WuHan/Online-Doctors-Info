@@ -44,4 +44,4 @@ P.S. As technicians, we have been thinking about what we can do for our countrym
 
 ## WeChat
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/1ed5b60e8ef6e054.png)
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/english.png)

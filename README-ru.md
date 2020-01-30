@@ -47,4 +47,4 @@ P.S. Как технические специалисты, мы думали о 
 
 Волонтёры могут предложить вам языковую помощь если вам нужно.
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/4b7078dc76590c82.png)
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/russian.png)

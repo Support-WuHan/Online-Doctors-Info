@@ -45,4 +45,4 @@ P.S. Als Techniker haben wir darüber nachgedacht, was wir für unsere Freunde i
 
 Die Sprachunterstützung von unseren Freiwilligen stehen Ihnen  bei Bedarf zur Verfügung.
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/8898ba61ed76cd06.png)
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/germany.png)

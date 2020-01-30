@@ -43,4 +43,4 @@ P.S. En tant que techniciens, nous avons réfléchi à ce que nous pouvons fai
 
 Si necessaire, notre volontaire peut vous offrir une aide linguistique.
 
-[Join Group](https://ftp.bmp.ovh/imgs/2020/01/d6d2c1d35a858288.png)
+[Join Group](https://wm-github-images.s3-ap-northeast-1.amazonaws.com/wuhan/wechat/française.png)
